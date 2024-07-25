@@ -1,0 +1,17 @@
+{
+    "name": "ingokl/minimalistic-masonry-gallery",
+    "description": "A minimalistic image gallery featuring a masonry layout written in PHP",
+    "authors": [
+        {
+            "name": "Ingo Kleiber",
+            "email": "ikleiber@googlemail.com"
+        }
+    ],
+
+    "require": {
+    	"components/jquery": "*",
+    	"desandro/masonry": "*",
+    	"kraksoft/colorbox": "*",
+        "desandro/imagesloaded": "dev-master"
+    }
+}
